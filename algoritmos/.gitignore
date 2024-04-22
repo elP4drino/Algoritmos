@@ -1,5 +1,3 @@
-*egg-info/
-**/bin/
+*.egg-info
 
-
-env/
+env
