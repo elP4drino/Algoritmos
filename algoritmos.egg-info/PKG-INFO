@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: algoritmos
+Version: 1.0
+Summary: Algorithms for Machine Learning
+Home-page: https://github.com/elP4drino/Algoritmos.git
+Author: ['Ruben Vazquez']
+Author-email: ['developerrv1024@gmail.com']
+License: MIT
+Keywords: algorithms  machine-learning programming
+Requires-Dist: ply
+Requires-Dist: matplotlib

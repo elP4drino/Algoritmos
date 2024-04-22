@@ -1,0 +1,8 @@
+README.md
+setup.py
+algoritmos/__init__.py
+algoritmos.egg-info/PKG-INFO
+algoritmos.egg-info/SOURCES.txt
+algoritmos.egg-info/dependency_links.txt
+algoritmos.egg-info/requires.txt
+algoritmos.egg-info/top_level.txt

@@ -12,6 +12,6 @@ setup(
     author_email=['developerrv1024@gmail.com'],
     description='Algorithms for Machine Learning',
     license='MIT',
-    keywords='lexer ply',
+    keywords='algorithms  machine-learning programming',
     url='https://github.com/elP4drino/Algoritmos.git',
 )
